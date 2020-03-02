@@ -10,3 +10,4 @@ echo C = $c
 
 DATE=$(date +%F)
 echo Hello, Good Morning! Today is $DATE
+echo COURSE_NAME=$COURSE_NAME
