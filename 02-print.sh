@@ -4,3 +4,5 @@
 echo Hello
 
 echo Hello\nBye
+ 
+echo -e Hello\nBye
