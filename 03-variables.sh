@@ -8,6 +8,6 @@ echo B = $b
 c="This is the feeded text"
 echo C = $c
 
-DATE = $(date +%F)
+DATE=$(date +%F)
 
 Hello, Good Morning! Today is $DATE
