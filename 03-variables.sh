@@ -9,5 +9,4 @@ c="This is the feeded text"
 echo C = $c
 
 DATE=$(date +%F)
-
-Hello, Good Morning! Today is $DATE
+echo Hello, Good Morning! Today is $DATE
