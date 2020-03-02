@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read -p 'Enter the username to add: ' user_name
+read -p 'Enter the group toadd: ' group_name
+
+echo Following command will be executed => useradd -g $group_name $user_name
