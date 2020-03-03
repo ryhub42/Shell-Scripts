@@ -16,6 +16,7 @@ SAMPLE2(){
 
 SAMPLE3() {
     echo Hai
+    return
     echo Bye
 }
 
