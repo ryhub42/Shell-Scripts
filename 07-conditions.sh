@@ -25,4 +25,6 @@ case $ACTION in
     *)
     echo -e "\n\e[33mUsage: $0 action(start|stop|restart)"
     exit 1
+    ;;
+esac
     
