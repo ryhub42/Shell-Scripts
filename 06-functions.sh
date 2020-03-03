@@ -5,7 +5,7 @@ SAMPLE () {
     echo This is a sample function
 }
 
-SAMPLE() {
+SAMPLE1() {
     echo First Argument = $1
 }
 
